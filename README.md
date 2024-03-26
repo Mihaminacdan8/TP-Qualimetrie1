@@ -1,6 +1,5 @@
 # TP-Qualimetrie1
-La fonction triCroissant prend un tableau d'entiers en entrée,
-La fonction vérifie si le tableau est nul ou vide,
-La fonction crée une copie de ce tableau pour éviter de modifier l'original.
-La fonction triInsertion est appelée pour trier le tableau copié selon l'algorithme de tri par insertion.
-La fonction triInsertion parcourt le tableau et insère chaque élément à sa place appropriée dans la partie déjà triée du tableau.
+Tri d'une liste d'entiers dans l'ordre croissant par la méthode Collections.sort().
+Gestion des erreurs : des messages d'erreur sont fournis en cas de problème après les vérifications effectuées pour s'assurer que (a) la liste ne  soit pas vide, ou (b) la liste ne contient que des entiers,
+La fonction est testée avec une liste d'entiers non triée.
+Grâce à cette fonction, une liste d'entiers triés est obtenue à partir de cette liste non triée.
